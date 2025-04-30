@@ -8,6 +8,9 @@ A curated, practical guide to commonly exploited AWS misconfigurations — with 
 ## **Introduction**  
 Cloud security in 2025 is no longer just about locking down S3 buckets — it's about understanding the attacker mindset and securing every IAM permission, API, and audit trail. AWS offers immense flexibility, but with that comes the opportunity for devastating misconfigurations. In this article, I’ll walk you through **the most exploited AWS misconfigurations today**, real-world case studies, **practical attack vectors**, and **how to fix them**.
 
+![ChatGPT Image Apr 30, 2025, 02_46_02 PM](https://github.com/user-attachments/assets/9eb33739-a0d9-4cb0-bca7-095a775198ec) <br/>
+
+
 ---
 
 ## **1. S3 Buckets Still Leaking Gold**  
